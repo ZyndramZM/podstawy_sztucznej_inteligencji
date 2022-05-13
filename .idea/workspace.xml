@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c536b6bd-9503-420b-86f8-bd208c8cbd74" name="Changes" comment="local changes" />
+    <list default="true" id="2787cf5f-cb8a-4576-9cfc-edf21fa5e4f2" name="Changes" comment="local changes">
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/podstawy_sztucznej_inteligencji.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/podstawy_sztucznej_inteligencji.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_8_22__1_10_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_8_22__1_10_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z03_lecture.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Z03_lecture.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z05_C_linear_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Z05_C_linear_regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z05_D_II.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Z05_D_II.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z06_D_GridSearchCV.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Z06_D_GridSearchCV.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z07_A_Lasso_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Z07_A_Lasso_Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z07_E_support_vector_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Z07_E_support_vector_regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z09_G_titanic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Z09_G_titanic.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="zyndram" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,18 +52,22 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26evciPjkZtzehT0ZRpw2Muz1Ad" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "Q:/Dokumenty/!Studia/!zajeciowe_21_22/!Wyklady/ML_P/podstawy_sztucznej_inteligencji",
+    "last_opened_file_path": "/home/zyndram/Documents/zajeciowe_21_22/!Wyklady/ML_P/podstawy_sztucznej_inteligencji",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
@@ -61,9 +78,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\ML_primary\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -80,7 +97,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c536b6bd-9503-420b-86f8-bd208c8cbd74" name="Changes" comment="" />
+      <changelist id="2787cf5f-cb8a-4576-9cfc-edf21fa5e4f2" name="Changes" comment="" />
       <created>1647796948216</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -100,6 +117,14 @@
       <workItem from="1649416236219" duration="3414000" />
       <workItem from="1649422980494" duration="2085000" />
       <workItem from="1651165454500" duration="1090000" />
+      <workItem from="1651276098166" duration="192000" />
+      <workItem from="1651276614769" duration="4432000" />
+      <workItem from="1651410067630" duration="723000" />
+      <workItem from="1651553335249" duration="87000" />
+      <workItem from="1652083330239" duration="2534000" />
+      <workItem from="1652309589336" duration="668000" />
+      <workItem from="1652361743176" duration="2035000" />
+      <workItem from="1652444081112" duration="95000" />
     </task>
     <task id="LOCAL-00001" summary="PD: 01, 02, 03 (TODO)&#10;LEC: 01, 02, 03 (TODO)">
       <created>1648339476408</created>
