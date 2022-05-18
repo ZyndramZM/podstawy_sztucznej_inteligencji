@@ -10,21 +10,14 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\titanic_proj\data\train.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\titanic_proj\results.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\titanic_proj\test.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\titanic_proj\train.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
